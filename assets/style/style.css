@@ -1,0 +1,19 @@
+:root {
+    --primary: #667085;
+    --secondary: #344054;
+    --text-light:#cbcce8;
+    --bg-buttons:#5429ff;
+    --text-Violet:#5429ff;
+  }
+  
+
+/******** Font Familly ***********/
+
+@font-face {
+    font-family: 'Inter';
+    src: url("./assets/font-family/inter/Inter-Regular.ttf"),
+    url("./assets/font-family/inter/Inter-Medium.ttf"),
+    url("./assets/font-family/inter/Inter-Bold.ttf");
+}
+
+/***********************************/
